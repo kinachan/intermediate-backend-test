@@ -1,0 +1,201 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "メンズカジュアルシャツ",
+      "price": 2980,
+      "category": "men",
+      "image": "../img/item-image-01.jpg",
+      "date": "2025-01-15",
+      "popularity": 85,
+      "description": "通勤やカジュアルな場面で活躍する万能シャツ。快適な素材で一日中着心地が良いです。",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "ホワイト",
+        "ライトブルー",
+        "ピンク"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "レディースワンピース",
+      "price": 3980,
+      "category": "women",
+      "image": "../img/item-image-02.jpg",
+      "date": "2025-01-14",
+      "popularity": 92,
+      "description": "エレガントで着やすいワンピース。オフィスからデートまで幅広く使えます。",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "ネイビー",
+        "ブラック",
+        "ベージュ"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "キッズTシャツ",
+      "price": 1580,
+      "category": "kids",
+      "image": "../img/item-image-03.jpg",
+      "date": "2025-01-13",
+      "popularity": 78,
+      "description": "お子様の肌に優しい綿100%のTシャツ。カラフルなデザインで楽しく着られます。",
+      "sizes": [
+        "90cm",
+        "100cm",
+        "110cm",
+        "120cm",
+        "130cm"
+      ],
+      "colors": [
+        "レッド",
+        "ブルー",
+        "イエロー",
+        "グリーン"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "メンズジーンズ",
+      "price": 4980,
+      "category": "men",
+      "image": "../img/item-image-04.jpg",
+      "date": "2025-01-12",
+      "popularity": 88,
+      "description": "履き心地抜群のストレッチデニム。スリムフィットでスタイリッシュなシルエット。",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "colors": [
+        "インディゴ",
+        "ライトブルー",
+        "ブラック"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "レディーススカート",
+      "price": 2980,
+      "category": "women",
+      "image": "../img/item-image-05.jpg",
+      "date": "2025-01-11",
+      "popularity": 76,
+      "description": "動きやすくて可愛いミニスカート。カジュアルからセミフォーマルまで対応。",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "ネイビー",
+        "グレー",
+        "ベージュ"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "キッズパーカー",
+      "price": 2580,
+      "category": "kids",
+      "image": "../img/item-image-06.jpg",
+      "date": "2025-01-10",
+      "popularity": 82,
+      "description": "軽くて暖かいフリース素材のパーカー。フード付きで防寒性も抜群。",
+      "sizes": [
+        "100cm",
+        "110cm",
+        "120cm",
+        "130cm",
+        "140cm"
+      ],
+      "colors": [
+        "ネイビー",
+        "グレー",
+        "ピンク",
+        "ブルー"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "メンズパーカー",
+      "price": 3980,
+      "category": "men",
+      "image": "../img/item-image-07.jpg",
+      "date": "2025-01-09",
+      "popularity": 90,
+      "description": "シンプルで使いやすいパーカー。フード付きで防寒性もあり、アウターとしても活躍。",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "グレー",
+        "ネイビー",
+        "ブラック",
+        "ブルー"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "レディースブラウス",
+      "price": 2580,
+      "category": "women",
+      "image": "../img/item-image-08.jpg",
+      "date": "2025-01-08",
+      "popularity": 84,
+      "description": "エレガントで上品なブラウス。オフィスやフォーマルな場面で活躍します。",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        "ホワイト",
+        "ライトブルー",
+        "ピンク",
+        "ベージュ"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "キッズジーンズ",
+      "price": 1980,
+      "category": "kids",
+      "image": "../img/item-image-09.jpg",
+      "date": "2025-01-07",
+      "popularity": 75,
+      "description": "お子様の動きを妨げないストレッチデニム。洗濯しても型崩れしにくい素材。",
+      "sizes": [
+        "90cm",
+        "100cm",
+        "110cm",
+        "120cm",
+        "130cm"
+      ],
+      "colors": [
+        "インディゴ",
+        "ライトブルー"
+      ]
+    }
+  ]
+}

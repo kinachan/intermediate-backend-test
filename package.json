@@ -1,0 +1,14 @@
+{
+  "name": "intermediate-backend-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kinachan/intermediate-backend-test.git",
+  "author": "kinachan <army1102@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "scripts": {
+    "start": "npx json-server --watch db.json -p 7878"
+  }
+}
